@@ -5,8 +5,9 @@
   height: 40vw;
   width: 100%;
   flex-direction: column;
+  background-color: black;
 }
 
 h1 {
-  color: red;
+  color: cornflowerblue;
 }
