@@ -5,6 +5,7 @@
   height: 40vw;
   width: 100%;
   flex-direction: column;
+  background-color: brown;
 }
 
 h1 {
